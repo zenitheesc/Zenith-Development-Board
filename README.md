@@ -37,6 +37,8 @@
     <a href="#how-to-contribute">How to contribute?</a> •
 </p>
 
+![Zenith-Development-Board](https://github.com/zenitheesc/Zenith-Development-Board/blob/main/Model/Hardware/Zenith-Development-Board.png)
+
 ## Environment and tools
 
 This board was developed using [KiCad](https://www.kicad.org/) with native components.
