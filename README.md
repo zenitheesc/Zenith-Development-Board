@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white; background-color:black">Zenith Development Board</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h4 align="center">A Development Board based on STM32F103C8T6</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
