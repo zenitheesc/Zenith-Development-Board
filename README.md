@@ -39,17 +39,11 @@
 
 ## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
-
-## Steps to run and debug
-
-`A simple list of steps indicating how one can run and test the project.`
+This board was developed using [KiCad](https://www.kicad.org/) with native components.
 
 ## How to contribute
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
+Fork your personal Git and add your hardware and software version in the "Development" folder following the Issues listed in the repository.
 
 ---
 
