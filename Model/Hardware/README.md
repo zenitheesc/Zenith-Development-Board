@@ -4,11 +4,11 @@ Development board based on the STM32F103C8T6 developed to introduce the group me
 
 # Schematic
 
-[Figure]
+![Schematic](https://github.com/zenitheesc/Zenith-Development-Board/blob/main/Model/Hardware/Esquematico.png)
 
 # Layout
 
-[Figure]
+![Layout](https://github.com/zenitheesc/Zenith-Development-Board/blob/main/Model/Hardware/Layout.png)
 
 # B.O.M.
 |Component|Amount|Description|
